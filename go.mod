@@ -1,10 +1,11 @@
-module github.com/gobuffalo/fizz
+module github.com/alenn-m/fizz
 
 go 1.12
 
 require (
 	github.com/Masterminds/semver/v3 v3.0.3
 	github.com/go-sql-driver/mysql v1.5.0
+	github.com/gobuffalo/fizz v1.10.0
 	github.com/gobuffalo/plush/v4 v4.0.0
 	github.com/gobuffalo/pop/v5 v5.2.0
 	github.com/jackc/pgx/v4 v4.6.0
